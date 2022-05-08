@@ -1,0 +1,16 @@
+{
+    "name": "BotaoPressao",
+    "version": "1.0.0",
+    "description": "Biblioteca simples para botao de pressao que impede multiplos cliques indesejados",
+    "keywords": "botoes de pressao, botoes esp32, esp32 botoes",
+    "authors":
+    [
+      {
+        "name": "Georgines",
+        "email": "geoginae.p2@gmail.com"       
+      }
+    ],
+    "license": "MIT",    
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }

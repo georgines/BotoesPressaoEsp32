@@ -1,0 +1,16 @@
+{
+    "name": "Luz",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": "luzes, controle de luzes, esp32 luzes",
+    "authors":
+    [
+      {
+        "name": "Georgines",
+        "email": "geoginae.p2@gmail.com"       
+      }
+    ],
+    "license": "MIT",    
+    "frameworks": "espressif32",
+    "platforms": "arduino"
+  }
